@@ -1,18 +1,26 @@
-## Getting Started
+# Proyecto 2 - Control de Notas de Alumnos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sistema desarrollado en Java y MySQL para el control de notas de estudiantes de Programación I.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+- Ingreso de alumnos
+- Ingreso de notas
+- Buscar alumnos
+- Actualizar información
+- Eliminar alumnos
+- Obtener promedio por sección
+- Listar alumnos
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tecnologías utilizadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java
+- MySQL
+- JDBC
+- GitHub
+- Visual Studio Code
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Autor
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Luis Miguel
+Universidad Mariano Gálvez
